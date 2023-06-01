@@ -1,0 +1,3 @@
+print(bytearray.fromhex("2d"))
+print(bytearray.fromhex("00 00 00 00"))
+print(bytearray.fromhex("00"))
